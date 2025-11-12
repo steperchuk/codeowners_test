@@ -52,6 +52,7 @@ apps/ @octocat
 # in a `/logs` directory will require approval from @octocat.
 **/logs @octocat
 
+# Test
 # In this example, @octocat owns any file in the `/apps`
 # directory in the root of your repository except for the `/apps/github`
 # subdirectory, as its owners are left empty.
